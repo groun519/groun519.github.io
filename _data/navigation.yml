@@ -2,8 +2,8 @@
 main:
   - title: "HOME()"
     url: https://groun519.github.io/
-   - title: "Category"
-     url: "/categories/"
+  - title: "Category"
+    url: "/categories/"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
