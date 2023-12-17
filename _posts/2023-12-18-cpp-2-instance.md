@@ -163,5 +163,6 @@ person2에 붕어빵에서 반죽과 팥을 넣듯이, 이름인 "멀티버스 �
 
 특히 다음 영상 내용에서 도움을 많이 받았다.
 영상이 참 좋으니, 관심 있는 사람은 한번 구경해보도록 하자.
-https://www.youtube.com/watch?v=nHR1hfIrBwI
+https://www.youtube.com/watch?v=nHR1hfIrBwI  
 
+이 글을, 제 친구 이재민에게 바칩니다.
