@@ -26,3 +26,6 @@ Visual Studio 2022 x64 must be installed in order to build this target.
 비주얼 스튜디오의 버전이 정상적이지 않아 발생하는 오류.
 
 비주얼 스튜디오를 재설치하면 해결된다.
+
+나는 비주얼 스튜디오의 업데이트를 되돌리는 방식으로 해결했다.
+visual studio installer >> 자세히 >> 복구
