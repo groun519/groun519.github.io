@@ -1,7 +1,7 @@
 ---
 published: true
 layout: archive
-title:  "에러 카테고리를 만든 이유"
+title:  "c++ 프로젝트 생성 오류"
 categories:
   - ue_error
 ---
